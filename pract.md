@@ -1,5 +1,8 @@
 # Практическая работа №6. Тема: Двумерные массивы. Группа П25-2.1: Трунцев Богдан, Дмитрий Карпухин.
-'''using System;
+
+![Result](скриншоты/имя_файла.png?raw=true "Optional title")
+
+```using System;
 
 class Program
 {
