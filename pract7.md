@@ -1,6 +1,6 @@
 # Практическая работа №7. Тема: Методы. Группа П25-2.1: Трунцев Богдан.
 
-![Result](pic12.png?raw=true "Optional title")
+![Result](pract7.png?raw=true "Optional title")
 
 ```using System;
 
